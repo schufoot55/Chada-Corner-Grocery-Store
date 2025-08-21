@@ -1,0 +1,3 @@
+﻿  grocery-main.cpp
+D:\compiler\c++ exports\Grocery Store\Project1\new grocery\grocery-main.cpp(54,2): error C3861: 'cls': identifier not found
+D:\compiler\c++ exports\Grocery Store\Project1\new grocery\grocery-main.cpp(67,4): error C3861: 'cls': identifier not found
